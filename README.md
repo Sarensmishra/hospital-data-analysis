@@ -71,10 +71,7 @@ The SQL queries were designed to find answers to the following critical question
 
 **Example: Top 3 Departments by Patient Count**
 | Department | Total Patients |
-| :--- | :--- |
-| Cardiology | 1,250 |
-| Orthopedics | 980 |
-| Neurology | 875 |
+
 
 *You can use a tool like [QuickDBD](https://www.quickdatabasediagrams.com/) to generate an ERD diagram, even if it's a single table, to make your README more professional.*
 
@@ -123,11 +120,7 @@ This project served as a practical application of core SQL concepts. It reinforc
 ## 📧 Contact
 - **Name:** Sarens Mishra
 - **Email:** sarensmishra@gmail.com
-- **LinkedIn:** [Link to your LinkedIn Profile]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/sarens-mishra-359575352/?lipi=urn%3Ali%3Apage%3Ad_flagship3_job_home%3BZwvZJhe3QQaVsIRNTOZUKA%3D%3D))
+- **LinkedIn:**  (https://in.linkedin.com/in/sarens-mishra-359575352)
 
 ---
 
-**Image URLs for your use:**
-1.  **PostgreSQL Logo (for Tech Stack):** https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg
-
-Simply add the markdown image syntax `![Alt Text](url)` to your README where you want the pictures to appear.
