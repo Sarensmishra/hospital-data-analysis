@@ -66,17 +66,6 @@ The SQL queries were designed to find answers to the following critical question
 9.  Department with the **Lowest Number of Patients**.
 10. **Monthly Medical Expenses Report** for financial tracking.
 
-## 📊 Sample Insights & Visualization
-*(You can add a screenshot of your query results here. You can create a simple chart in Excel or Google Sheets based on your results and add it below.)*
-
-**Example: Top 3 Departments by Patient Count**
-| Department | Total Patients |
-
-
-*You can use a tool like [QuickDBD](https://www.quickdatabasediagrams.com/) to generate an ERD diagram, even if it's a single table, to make your README more professional.*
-
-![Database Schema](https://i.imgur.com/qvQ+W0k.png)
-
 ## 🚀 How to Run This Project Locally
 
 1.  **Prerequisites:** Ensure you have PostgreSQL and pgAdmin installed on your system.
@@ -101,9 +90,9 @@ hospital-data-sql-analysis/
 │
 │── hospital.csv                 # Original dataset
 │
-├── queries.sql                      # All SQL queries and table schema
+├── hospital-data-analysis.sql   # All SQL queries and table schema
 │
-└── README.md                        # Project documentation (this file)
+└── README.md                    # Project documentation (this file)
 ```
 
 ## ✨ Skills Demonstrated
